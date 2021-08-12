@@ -1,4 +1,3 @@
-Surnames,
 AACHARYA,
 AAFRIN,
 AALA,
