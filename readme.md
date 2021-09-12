@@ -1,5 +1,16 @@
 (WIP) an exercise on syntetic data generation
 
+# Some "real world" patterns here:
+
+- Upward Trend
+- Weekly seasonality
+- Holiday
+- System shutdowns
+- Pirate metrics
+- Pattens usually visible in Nepali startups (demography and distributions)
+- Customer Churn
+- others
+
 ### Raw sources
 - http://www.studentsoftheworld.info/penpals/stats.php?Pays=NEP
 - https://raw.githubusercontent.com/amitness/Thar/master/surnames_en.csv
