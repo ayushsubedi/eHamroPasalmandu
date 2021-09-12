@@ -14,7 +14,7 @@
 ### Raw sources
 - http://www.studentsoftheworld.info/penpals/stats.php?Pays=NEP
 - https://raw.githubusercontent.com/amitness/Thar/master/surnames_en.csv
-- https://www.kaggle.com/PromptCloudHQ/flipkart-products
+- https://www.gadgetbytenepal.com/
 
 
 ## Dataset
