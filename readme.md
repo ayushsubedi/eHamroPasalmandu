@@ -1,6 +1,9 @@
-(WIP) an exercise on syntetic data generation
+(WIP) an exercise on syntetic data generation.
 
-# Some "real world" patterns here:
+# What is this?
+eHamroPasalmandu is a **fictional** eCommerse based in Nepal. If it were operating for a year, this is what the data would look like (kind of, sort of). 
+
+## Some "real world" patterns here:
 
 - Upward Trend
 - Weekly seasonality
